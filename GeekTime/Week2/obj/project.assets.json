@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Repos\\geektime\\Week_01\\Week01.csproj",
-      "projectName": "Week01",
-      "projectPath": "E:\\Repos\\geektime\\Week_01\\Week01.csproj",
+      "projectUniqueName": "E:\\Repos\\geektime\\GeekTime\\Week2\\Week2.csproj",
+      "projectName": "Week2",
+      "projectPath": "E:\\Repos\\geektime\\GeekTime\\Week2\\Week2.csproj",
       "packagesPath": "C:\\Users\\dazhu\\.nuget\\packages\\",
-      "outputPath": "E:\\Repos\\geektime\\Week_01\\obj\\",
+      "outputPath": "E:\\Repos\\geektime\\GeekTime\\Week2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -49,10 +49,21 @@
     "frameworks": {
       "netcoreapp3.1": {
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

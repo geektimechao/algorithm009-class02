@@ -1,0 +1,11 @@
+E:\Repos\geektime\GeekTime\Test\obj\Debug\netcoreapp2.2\Test.csprojAssemblyReference.cache
+E:\Repos\geektime\GeekTime\Test\obj\Debug\netcoreapp2.2\Test.csproj.CoreCompileInputs.cache
+E:\Repos\geektime\GeekTime\Test\obj\Debug\netcoreapp2.2\Test.AssemblyInfoInputs.cache
+E:\Repos\geektime\GeekTime\Test\obj\Debug\netcoreapp2.2\Test.AssemblyInfo.cs
+E:\Repos\geektime\GeekTime\Test\bin\Debug\netcoreapp2.2\Test.deps.json
+E:\Repos\geektime\GeekTime\Test\bin\Debug\netcoreapp2.2\Test.runtimeconfig.json
+E:\Repos\geektime\GeekTime\Test\bin\Debug\netcoreapp2.2\Test.runtimeconfig.dev.json
+E:\Repos\geektime\GeekTime\Test\bin\Debug\netcoreapp2.2\Test.dll
+E:\Repos\geektime\GeekTime\Test\bin\Debug\netcoreapp2.2\Test.pdb
+E:\Repos\geektime\GeekTime\Test\obj\Debug\netcoreapp2.2\Test.dll
+E:\Repos\geektime\GeekTime\Test\obj\Debug\netcoreapp2.2\Test.pdb

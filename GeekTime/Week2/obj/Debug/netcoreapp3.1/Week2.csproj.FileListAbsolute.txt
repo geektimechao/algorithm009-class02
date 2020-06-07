@@ -1,0 +1,13 @@
+E:\Repos\geektime\GeekTime\Week2\bin\Debug\netcoreapp3.1\Week2.exe
+E:\Repos\geektime\GeekTime\Week2\bin\Debug\netcoreapp3.1\Week2.deps.json
+E:\Repos\geektime\GeekTime\Week2\bin\Debug\netcoreapp3.1\Week2.runtimeconfig.json
+E:\Repos\geektime\GeekTime\Week2\bin\Debug\netcoreapp3.1\Week2.runtimeconfig.dev.json
+E:\Repos\geektime\GeekTime\Week2\bin\Debug\netcoreapp3.1\Week2.dll
+E:\Repos\geektime\GeekTime\Week2\bin\Debug\netcoreapp3.1\Week2.pdb
+E:\Repos\geektime\GeekTime\Week2\obj\Debug\netcoreapp3.1\Week2.csprojAssemblyReference.cache
+E:\Repos\geektime\GeekTime\Week2\obj\Debug\netcoreapp3.1\Week2.csproj.CoreCompileInputs.cache
+E:\Repos\geektime\GeekTime\Week2\obj\Debug\netcoreapp3.1\Week2.AssemblyInfoInputs.cache
+E:\Repos\geektime\GeekTime\Week2\obj\Debug\netcoreapp3.1\Week2.AssemblyInfo.cs
+E:\Repos\geektime\GeekTime\Week2\obj\Debug\netcoreapp3.1\Week2.dll
+E:\Repos\geektime\GeekTime\Week2\obj\Debug\netcoreapp3.1\Week2.pdb
+E:\Repos\geektime\GeekTime\Week2\obj\Debug\netcoreapp3.1\Week2.genruntimeconfig.cache

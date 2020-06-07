@@ -1,0 +1,13 @@
+E:\Repos\geektime\GeekTime\Test\bin\Debug\netcoreapp3.1\Test.exe
+E:\Repos\geektime\GeekTime\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+E:\Repos\geektime\GeekTime\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+E:\Repos\geektime\GeekTime\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+E:\Repos\geektime\GeekTime\Test\bin\Debug\netcoreapp3.1\Test.dll
+E:\Repos\geektime\GeekTime\Test\bin\Debug\netcoreapp3.1\Test.pdb
+E:\Repos\geektime\GeekTime\Test\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache
+E:\Repos\geektime\GeekTime\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+E:\Repos\geektime\GeekTime\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+E:\Repos\geektime\GeekTime\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+E:\Repos\geektime\GeekTime\Test\obj\Debug\netcoreapp3.1\Test.dll
+E:\Repos\geektime\GeekTime\Test\obj\Debug\netcoreapp3.1\Test.pdb
+E:\Repos\geektime\GeekTime\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
