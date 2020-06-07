@@ -4,9 +4,9 @@ using System.Text;
 
 namespace Week3
 {
-    public  class MajorityElement
+    public  class MajorityElementClass
     {
-        public int MajorityElement(int[] nums)
+        public static int MajorityElement(int[] nums)
         {
             Dictionary<int, int> dict = new Dictionary<int, int>();
             int countTreshold = nums.Length / 2;
